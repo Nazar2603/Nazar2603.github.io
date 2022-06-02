@@ -959,13 +959,7 @@ header, .first_page{
 
 @media only screen and (max-width: 320px){
 
-    .first_page{
-        height: 600px;
-    }
-
-    .first_content{
-        padding-top: 200px;
-    }
+   
     .team_text{
        display: none;
    }

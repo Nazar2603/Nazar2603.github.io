@@ -962,9 +962,21 @@ header, .first_page{
    .team_text{
        display: none;
    }
+    
+    .first_content h1{
+       font-size: 27px;
+       line-height: 33px;
+   }
 
+   .news_title{
+       line-height: 30px;
+       margin-top: 20px;
+       margin-bottom: 10px;
+   }
+    
    .news_text{
-        line-height: 0px;
+        line-height: 25px;
+        margin-bottom: 20px;
     }   
 
     .header_menu input:checked ~ nav a{
